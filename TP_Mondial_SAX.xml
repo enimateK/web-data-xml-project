@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE em SYSTEM "em.dtd">
+<em>
+  <liste-pays>
+    <pays id-p="AL" superficie="28750"/>
+    <pays id-p="GR" superficie="131940"/>
+    <pays id-p="MK" superficie="25333"/>
+    <pays id-p="SRB" superficie="77474"/>
+    <pays id-p="MNE" superficie="14026"/>
+    <pays id-p="KOS" superficie="10887"/>
+    <pays id-p="AND" superficie="450"/>
+    <pays id-p="F" superficie="547030"/>
+    <pays id-p="E" superficie="504750"/>
+    <pays id-p="A" superficie="83850"/>
+    <pays id-p="CZ" superficie="78703"/>
+    <pays id-p="D" superficie="356910"/>
+    <pays id-p="H" superficie="93030"/>
+    <pays id-p="I" superficie="301230"/>
+    <pays id-p="FL" superficie="160"/>
+    <pays id-p="SK" superficie="48845"/>
+    <pays id-p="SLO" superficie="20256"/>
+    <pays id-p="CH" superficie="41290"/>
+    <pays id-p="BY" superficie="207600"/>
+    <pays id-p="LV" superficie="64100"/>
+    <pays id-p="LT" superficie="65200"/>
+    <pays id-p="PL" superficie="312683"/>
+    <pays id-p="UA" superficie="603700"/>
+    <pays id-p="R" superficie="17075200"/>
+    <pays id-p="B" superficie="30510"/>
+    <pays id-p="L" superficie="2586"/>
+    <pays id-p="NL" superficie="37330"/>
+    <pays id-p="BIH" superficie="51233"/>
+    <pays id-p="HR" superficie="56538"/>
+    <pays id-p="BG" superficie="110910"/>
+    <pays id-p="RO" superficie="237500"/>
+    <pays id-p="TR" superficie="780580"/>
+    <pays id-p="DK" superficie="43070"/>
+    <pays id-p="EW" superficie="45100"/>
+    <pays id-p="FARX" superficie="1400"/>
+    <pays id-p="SF" superficie="337030"/>
+    <pays id-p="N" superficie="324220"/>
+    <pays id-p="S" superficie="449964"/>
+    <pays id-p="MC" superficie="1.9"/>
+    <pays id-p="GBZ" superficie="6.5"/>
+    <pays id-p="GBG" superficie="194"/>
+    <pays id-p="V" superficie="0.44"/>
+    <pays id-p="CEU" superficie="18"/>
+    <pays id-p="MEL" superficie="12"/>
+    <pays id-p="IS" superficie="103000"/>
+    <pays id-p="IRL" superficie="70280"/>
+    <pays id-p="RSM" superficie="60"/>
+    <pays id-p="GBJ" superficie="117"/>
+    <pays id-p="M" superficie="320"/>
+    <pays id-p="GBM" superficie="588"/>
+    <pays id-p="MD" superficie="33700"/>
+    <pays id-p="P" superficie="92080"/>
+    <pays id-p="SVAX" superficie="62049"/>
+    <pays id-p="GB" superficie="244820"/>
+    <pays id-p="AFG" superficie="647500"/>
+    <pays id-p="CN" superficie="9596960"/>
+    <pays id-p="IR" superficie="1648000"/>
+    <pays id-p="PK" superficie="803940"/>
+    <pays id-p="TAD" superficie="143100"/>
+    <pays id-p="TM" superficie="488100"/>
+    <pays id-p="UZB" superficie="447400"/>
+    <pays id-p="ARM" superficie="29800"/>
+    <pays id-p="GE" superficie="69700"/>
+    <pays id-p="AZ" superficie="86600"/>
+    <pays id-p="BRN" superficie="620"/>
+    <pays id-p="BD" superficie="144000"/>
+    <pays id-p="MYA" superficie="678500"/>
+    <pays id-p="IND" superficie="3287590"/>
+    <pays id-p="BHT" superficie="47000"/>
+    <pays id-p="BRU" superficie="5770"/>
+    <pays id-p="MAL" superficie="329750"/>
+    <pays id-p="LAO" superficie="236800"/>
+    <pays id-p="THA" superficie="514000"/>
+    <pays id-p="K" superficie="181040"/>
+    <pays id-p="VN" superficie="329560"/>
+    <pays id-p="KAZ" superficie="2717300"/>
+    <pays id-p="NOK" superficie="120540"/>
+    <pays id-p="KGZ" superficie="198500"/>
+    <pays id-p="HONX" superficie="1092"/>
+    <pays id-p="MACX" superficie="16"/>
+    <pays id-p="MNG" superficie="1565000"/>
+    <pays id-p="NEP" superficie="140800"/>
+    <pays id-p="XMAS" superficie="135"/>
+    <pays id-p="COCO" superficie="14"/>
+    <pays id-p="CY" superficie="9251"/>
+    <pays id-p="GAZA" superficie="365"/>
+    <pays id-p="IL" superficie="22072"/>
+    <pays id-p="ET" superficie="1001450"/>
+    <pays id-p="RI" superficie="1919440"/>
+    <pays id-p="TL" superficie="15007"/>
+    <pays id-p="PNG" superficie="461690"/>
+    <pays id-p="IRQ" superficie="437072"/>
+    <pays id-p="JOR" superficie="89213"/>
+    <pays id-p="KWT" superficie="17820"/>
+    <pays id-p="SA" superficie="1960582"/>
+    <pays id-p="SYR" superficie="185180"/>
+    <pays id-p="RL" superficie="10400"/>
+    <pays id-p="WEST" superficie="5655"/>
+    <pays id-p="J" superficie="377835"/>
+    <pays id-p="ROK" superficie="98480"/>
+    <pays id-p="MV" superficie="300"/>
+    <pays id-p="OM" superficie="212460"/>
+    <pays id-p="UAE" superficie="75581"/>
+    <pays id-p="YE" superficie="527970"/>
+    <pays id-p="RP" superficie="299764"/>
+    <pays id-p="Q" superficie="11000"/>
+    <pays id-p="SGP" superficie="632.6"/>
+    <pays id-p="CL" superficie="65610"/>
+    <pays id-p="RC" superficie="36179"/>
+    <pays id-p="AXA" superficie="102"/>
+    <pays id-p="AG" superficie="442"/>
+    <pays id-p="ARU" superficie="193"/>
+    <pays id-p="BS" superficie="13940"/>
+    <pays id-p="BDS" superficie="430"/>
+    <pays id-p="BZ" superficie="22960"/>
+    <pays id-p="GCA" superficie="108890"/>
+    <pays id-p="MEX" superficie="1972550"/>
+    <pays id-p="BERM" superficie="53.3"/>
+    <pays id-p="BVIR" superficie="153"/>
+    <pays id-p="CDN" superficie="9976140"/>
+    <pays id-p="USA" superficie="9372610"/>
+    <pays id-p="CAYM" superficie="262"/>
+    <pays id-p="CR" superficie="51100"/>
+    <pays id-p="NIC" superficie="129494"/>
+    <pays id-p="PA" superficie="78200"/>
+    <pays id-p="C" superficie="110860"/>
+    <pays id-p="WD" superficie="746"/>
+    <pays id-p="DOM" superficie="48730"/>
+    <pays id-p="RH" superficie="27750"/>
+    <pays id-p="ES" superficie="21040"/>
+    <pays id-p="HCA" superficie="112090"/>
+    <pays id-p="GROX" superficie="2175600"/>
+    <pays id-p="WG" superficie="344"/>
+    <pays id-p="GUAD" superficie="1628"/>
+    <pays id-p="JA" superficie="10991"/>
+    <pays id-p="MART" superficie="1128"/>
+    <pays id-p="MNTS" superficie="102"/>
+    <pays id-p="CUR" superficie="444"/>
+    <pays id-p="NLSM" superficie="34"/>
+    <pays id-p="SMAR" superficie="54"/>
+    <pays id-p="SBAR" superficie="21"/>
+    <pays id-p="CO" superficie="1138910"/>
+    <pays id-p="PR" superficie="8870"/>
+    <pays id-p="KN" superficie="269"/>
+    <pays id-p="WL" superficie="620"/>
+    <pays id-p="SPMI" superficie="242"/>
+    <pays id-p="WV" superficie="389"/>
+    <pays id-p="TT" superficie="5130"/>
+    <pays id-p="TUCA" superficie="430"/>
+    <pays id-p="VIRG" superficie="352"/>
+    <pays id-p="AMSA" superficie="199"/>
+    <pays id-p="AUS" superficie="7686850"/>
+    <pays id-p="COOK" superficie="240"/>
+    <pays id-p="FJI" superficie="18270"/>
+    <pays id-p="FPOL" superficie="4167"/>
+    <pays id-p="GUAM" superficie="541.3"/>
+    <pays id-p="KIR" superficie="717"/>
+    <pays id-p="MH" superficie="181.3"/>
+    <pays id-p="FSM" superficie="702"/>
+    <pays id-p="NAU" superficie="21"/>
+    <pays id-p="NCA" superficie="19060"/>
+    <pays id-p="NZ" superficie="268680"/>
+    <pays id-p="NIUE" superficie="260"/>
+    <pays id-p="NORF" superficie="34.6"/>
+    <pays id-p="NMIS" superficie="477"/>
+    <pays id-p="PAL" superficie="458"/>
+    <pays id-p="PITC" superficie="47"/>
+    <pays id-p="SLB" superficie="28450"/>
+    <pays id-p="TO" superficie="748"/>
+    <pays id-p="TUV" superficie="26"/>
+    <pays id-p="TOK" superficie="12"/>
+    <pays id-p="VU" superficie="14760"/>
+    <pays id-p="WAFU" superficie="274"/>
+    <pays id-p="WS" superficie="2860"/>
+    <pays id-p="RA" superficie="2766890"/>
+    <pays id-p="BOL" superficie="1098580"/>
+    <pays id-p="BR" superficie="8511965"/>
+    <pays id-p="RCH" superficie="756950"/>
+    <pays id-p="PY" superficie="406750"/>
+    <pays id-p="ROU" superficie="176220"/>
+    <pays id-p="PE" superficie="1285220"/>
+    <pays id-p="FGU" superficie="83534"/>
+    <pays id-p="GUY" superficie="214970"/>
+    <pays id-p="SME" superficie="163270"/>
+    <pays id-p="YV" superficie="912050"/>
+    <pays id-p="EC" superficie="283560"/>
+    <pays id-p="FALK" superficie="12173"/>
+    <pays id-p="DZ" superficie="2381740"/>
+    <pays id-p="LAR" superficie="1759540"/>
+    <pays id-p="RMM" superficie="1240000"/>
+    <pays id-p="RIM" superficie="1030700"/>
+    <pays id-p="MA" superficie="446550"/>
+    <pays id-p="RN" superficie="1267000"/>
+    <pays id-p="TN" superficie="163610"/>
+    <pays id-p="WSA" superficie="266000"/>
+    <pays id-p="ANG" superficie="1246700"/>
+    <pays id-p="RCB" superficie="342000"/>
+    <pays id-p="NAM" superficie="825418"/>
+    <pays id-p="ZRE" superficie="2345410"/>
+    <pays id-p="Z" superficie="752610"/>
+    <pays id-p="BEN" superficie="112620"/>
+    <pays id-p="BF" superficie="274200"/>
+    <pays id-p="WAN" superficie="923770"/>
+    <pays id-p="RT" superficie="56790"/>
+    <pays id-p="RB" superficie="600370"/>
+    <pays id-p="RSA" superficie="1219912"/>
+    <pays id-p="ZW" superficie="390580"/>
+    <pays id-p="CI" superficie="322460"/>
+    <pays id-p="GH" superficie="238540"/>
+    <pays id-p="BI" superficie="27830"/>
+    <pays id-p="RWA" superficie="26340"/>
+    <pays id-p="EAT" superficie="945090"/>
+    <pays id-p="CAM" superficie="475440"/>
+    <pays id-p="RCA" superficie="622980"/>
+    <pays id-p="TCH" superficie="1284000"/>
+    <pays id-p="GQ" superficie="28050"/>
+    <pays id-p="G" superficie="267670"/>
+    <pays id-p="CV" superficie="4033"/>
+    <pays id-p="SUD" superficie="1861484"/>
+    <pays id-p="SSD" superficie="644329"/>
+    <pays id-p="COM" superficie="2170"/>
+    <pays id-p="RG" superficie="245860"/>
+    <pays id-p="LB" superficie="111370"/>
+    <pays id-p="DJI" superficie="22000"/>
+    <pays id-p="ER" superficie="121320"/>
+    <pays id-p="ETH" superficie="1127127"/>
+    <pays id-p="SP" superficie="637660"/>
+    <pays id-p="EAK" superficie="582650"/>
+    <pays id-p="WAG" superficie="11300"/>
+    <pays id-p="SN" superficie="196190"/>
+    <pays id-p="GNB" superficie="36120"/>
+    <pays id-p="WAL" superficie="71740"/>
+    <pays id-p="EAU" superficie="236040"/>
+    <pays id-p="LS" superficie="30350"/>
+    <pays id-p="RM" superficie="587041"/>
+    <pays id-p="MW" superficie="118480"/>
+    <pays id-p="MOC" superficie="801590"/>
+    <pays id-p="MS" superficie="2040"/>
+    <pays id-p="MAYO" superficie="374"/>
+    <pays id-p="SD" superficie="17360"/>
+    <pays id-p="REUN" superficie="2510"/>
+    <pays id-p="HELX" superficie="413"/>
+    <pays id-p="STP" superficie="1001"/>
+    <pays id-p="SY" superficie="455"/>
+  </liste-pays>
+  <liste-espace-maritime>
+    <espace-maritime id-e="sea-Atlantic" type="inconnu">
+      <cotoie id-p="F"/>
+      <cotoie id-p="E"/>
+      <cotoie id-p="GBZ"/>
+      <cotoie id-p="IS"/>
+      <cotoie id-p="IRL"/>
+      <cotoie id-p="GB"/>
+      <cotoie id-p="P"/>
+      <cotoie id-p="AG"/>
+      <cotoie id-p="BS"/>
+      <cotoie id-p="BDS"/>
+      <cotoie id-p="CDN"/>
+      <cotoie id-p="USA"/>
+      <cotoie id-p="C"/>
+      <cotoie id-p="WD"/>
+      <cotoie id-p="DOM"/>
+      <cotoie id-p="RH"/>
+      <cotoie id-p="WG"/>
+      <cotoie id-p="KN"/>
+      <cotoie id-p="WL"/>
+      <cotoie id-p="WV"/>
+      <cotoie id-p="TT"/>
+      <cotoie id-p="RA"/>
+      <cotoie id-p="BR"/>
+      <cotoie id-p="RCH"/>
+      <cotoie id-p="ROU"/>
+      <cotoie id-p="FGU"/>
+      <cotoie id-p="GUY"/>
+      <cotoie id-p="SME"/>
+      <cotoie id-p="YV"/>
+      <cotoie id-p="RIM"/>
+      <cotoie id-p="MA"/>
+      <cotoie id-p="WSA"/>
+      <cotoie id-p="ANG"/>
+      <cotoie id-p="RCB"/>
+      <cotoie id-p="NAM"/>
+      <cotoie id-p="ZRE"/>
+      <cotoie id-p="BEN"/>
+      <cotoie id-p="WAN"/>
+      <cotoie id-p="RT"/>
+      <cotoie id-p="RSA"/>
+      <cotoie id-p="CI"/>
+      <cotoie id-p="GH"/>
+      <cotoie id-p="CAM"/>
+      <cotoie id-p="GQ"/>
+      <cotoie id-p="G"/>
+      <cotoie id-p="CV"/>
+      <cotoie id-p="RG"/>
+      <cotoie id-p="LB"/>
+      <cotoie id-p="WAG"/>
+      <cotoie id-p="SN"/>
+      <cotoie id-p="GNB"/>
+      <cotoie id-p="WAL"/>
+      <cotoie id-p="NLSM"/>
+      <cotoie id-p="SMAR"/>
+      <cotoie id-p="SBAR"/>
+      <cotoie id-p="STP"/>
+      <cotoie id-p="PR"/>
+      <cotoie id-p="AXA"/>
+      <cotoie id-p="GUAD"/>
+      <cotoie id-p="MART"/>
+      <cotoie id-p="BVIR"/>
+      <cotoie id-p="MNTS"/>
+      <cotoie id-p="VIRG"/>
+      <cotoie id-p="HELX"/>
+      <cotoie id-p="FALK"/>
+      <cotoie id-p="SPMI"/>
+      <cotoie id-p="BERM"/>
+      <cotoie id-p="TUCA"/>
+      <cotoie id-p="SVAX"/>
+      <cotoie id-p="GROX"/>
+      <cotoie id-p="FARX"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Mittelmeer" type="inconnu">
+      <cotoie id-p="AL"/>
+      <cotoie id-p="GR"/>
+      <cotoie id-p="MNE"/>
+      <cotoie id-p="HR"/>
+      <cotoie id-p="BIH"/>
+      <cotoie id-p="SLO"/>
+      <cotoie id-p="F"/>
+      <cotoie id-p="E"/>
+      <cotoie id-p="I"/>
+      <cotoie id-p="TR"/>
+      <cotoie id-p="MC"/>
+      <cotoie id-p="M"/>
+      <cotoie id-p="CY"/>
+      <cotoie id-p="IL"/>
+      <cotoie id-p="GAZA"/>
+      <cotoie id-p="ET"/>
+      <cotoie id-p="SYR"/>
+      <cotoie id-p="RL"/>
+      <cotoie id-p="DZ"/>
+      <cotoie id-p="LAR"/>
+      <cotoie id-p="MA"/>
+      <cotoie id-p="TN"/>
+      <cotoie id-p="GBZ"/>
+      <cotoie id-p="CEU"/>
+      <cotoie id-p="MEL"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Schwarzes_Meer" type="inconnu">
+      <cotoie id-p="UA"/>
+      <cotoie id-p="R"/>
+      <cotoie id-p="BG"/>
+      <cotoie id-p="RO"/>
+      <cotoie id-p="TR"/>
+      <cotoie id-p="GE"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Marmarameer" type="inconnu">
+      <cotoie id-p="TR"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Asowsches_Meer" type="inconnu">
+      <cotoie id-p="UA"/>
+      <cotoie id-p="R"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Channel" type="inconnu">
+      <cotoie id-p="F"/>
+      <cotoie id-p="GB"/>
+      <cotoie id-p="GBG"/>
+      <cotoie id-p="GBJ"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Irische_See" type="inconnu">
+      <cotoie id-p="IRL"/>
+      <cotoie id-p="GB"/>
+      <cotoie id-p="GBM"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Nordsee" type="inconnu">
+      <cotoie id-p="NL"/>
+      <cotoie id-p="B"/>
+      <cotoie id-p="F"/>
+      <cotoie id-p="DK"/>
+      <cotoie id-p="N"/>
+      <cotoie id-p="GB"/>
+      <cotoie id-p="D"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Skagerrak" type="inconnu">
+      <cotoie id-p="N"/>
+      <cotoie id-p="S"/>
+      <cotoie id-p="DK"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Kattegat" type="inconnu">
+      <cotoie id-p="S"/>
+      <cotoie id-p="DK"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Ostsee" type="inconnu">
+      <cotoie id-p="D"/>
+      <cotoie id-p="PL"/>
+      <cotoie id-p="LT"/>
+      <cotoie id-p="LV"/>
+      <cotoie id-p="EW"/>
+      <cotoie id-p="R"/>
+      <cotoie id-p="SF"/>
+      <cotoie id-p="S"/>
+      <cotoie id-p="DK"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-NorwegianSea" type="inconnu">
+      <cotoie id-p="N"/>
+      <cotoie id-p="IS"/>
+      <cotoie id-p="FARX"/>
+      <cotoie id-p="SVAX"/>
+      <cotoie id-p="GB"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Greenlandsea" type="inconnu">
+      <cotoie id-p="IS"/>
+      <cotoie id-p="SVAX"/>
+      <cotoie id-p="GROX"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-BarentsSea" type="inconnu">
+      <cotoie id-p="N"/>
+      <cotoie id-p="R"/>
+      <cotoie id-p="SVAX"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-KaraSea" type="inconnu">
+      <cotoie id-p="R"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-ArcticOcean" type="inconnu">
+      <cotoie id-p="R"/>
+      <cotoie id-p="CDN"/>
+      <cotoie id-p="USA"/>
+      <cotoie id-p="SVAX"/>
+      <cotoie id-p="GROX"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-SibirianSea" type="inconnu">
+      <cotoie id-p="R"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-BeringSea" type="inconnu">
+      <cotoie id-p="R"/>
+      <cotoie id-p="USA"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-HudsonBay" type="inconnu">
+      <cotoie id-p="CDN"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-LabradorSea" type="inconnu">
+      <cotoie id-p="CDN"/>
+      <cotoie id-p="GROX"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Golf_von_Mexiko" type="inconnu">
+      <cotoie id-p="MEX"/>
+      <cotoie id-p="USA"/>
+      <cotoie id-p="C"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Caribbean" type="inconnu">
+      <cotoie id-p="AG"/>
+      <cotoie id-p="BZ"/>
+      <cotoie id-p="GCA"/>
+      <cotoie id-p="MEX"/>
+      <cotoie id-p="CR"/>
+      <cotoie id-p="NIC"/>
+      <cotoie id-p="PA"/>
+      <cotoie id-p="C"/>
+      <cotoie id-p="WD"/>
+      <cotoie id-p="DOM"/>
+      <cotoie id-p="RH"/>
+      <cotoie id-p="HCA"/>
+      <cotoie id-p="WG"/>
+      <cotoie id-p="JA"/>
+      <cotoie id-p="CO"/>
+      <cotoie id-p="KN"/>
+      <cotoie id-p="WL"/>
+      <cotoie id-p="WV"/>
+      <cotoie id-p="YV"/>
+      <cotoie id-p="PR"/>
+      <cotoie id-p="SMAR"/>
+      <cotoie id-p="SBAR"/>
+      <cotoie id-p="AXA"/>
+      <cotoie id-p="GUAD"/>
+      <cotoie id-p="MART"/>
+      <cotoie id-p="BVIR"/>
+      <cotoie id-p="MNTS"/>
+      <cotoie id-p="VIRG"/>
+      <cotoie id-p="TT"/>
+      <cotoie id-p="NLSM"/>
+      <cotoie id-p="CUR"/>
+      <cotoie id-p="ARU"/>
+      <cotoie id-p="CAYM"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Pacific" type="inconnu">
+      <cotoie id-p="R"/>
+      <cotoie id-p="J"/>
+      <cotoie id-p="RP"/>
+      <cotoie id-p="RC"/>
+      <cotoie id-p="GCA"/>
+      <cotoie id-p="MEX"/>
+      <cotoie id-p="CDN"/>
+      <cotoie id-p="USA"/>
+      <cotoie id-p="CR"/>
+      <cotoie id-p="NIC"/>
+      <cotoie id-p="PA"/>
+      <cotoie id-p="ES"/>
+      <cotoie id-p="HCA"/>
+      <cotoie id-p="CO"/>
+      <cotoie id-p="FJI"/>
+      <cotoie id-p="KIR"/>
+      <cotoie id-p="MH"/>
+      <cotoie id-p="FSM"/>
+      <cotoie id-p="NAU"/>
+      <cotoie id-p="NZ"/>
+      <cotoie id-p="PAL"/>
+      <cotoie id-p="SLB"/>
+      <cotoie id-p="TO"/>
+      <cotoie id-p="TOK"/>
+      <cotoie id-p="TUV"/>
+      <cotoie id-p="VU"/>
+      <cotoie id-p="WS"/>
+      <cotoie id-p="RCH"/>
+      <cotoie id-p="PE"/>
+      <cotoie id-p="EC"/>
+      <cotoie id-p="RI"/>
+      <cotoie id-p="PNG"/>
+      <cotoie id-p="NCA"/>
+      <cotoie id-p="NIUE"/>
+      <cotoie id-p="NMIS"/>
+      <cotoie id-p="PITC"/>
+      <cotoie id-p="WAFU"/>
+      <cotoie id-p="AMSA"/>
+      <cotoie id-p="COOK"/>
+      <cotoie id-p="FPOL"/>
+      <cotoie id-p="GUAM"/>
+      <cotoie id-p="NORF"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-OchotskSea" type="inconnu">
+      <cotoie id-p="R"/>
+      <cotoie id-p="J"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Japanisches_Meer" type="inconnu">
+      <cotoie id-p="R"/>
+      <cotoie id-p="J"/>
+      <cotoie id-p="ROK"/>
+      <cotoie id-p="NOK"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Gelbes_Meer" type="inconnu">
+      <cotoie id-p="CN"/>
+      <cotoie id-p="ROK"/>
+      <cotoie id-p="NOK"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-EastChinaSea" type="inconnu">
+      <cotoie id-p="CN"/>
+      <cotoie id-p="RC"/>
+      <cotoie id-p="ROK"/>
+      <cotoie id-p="J"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-SouthChinaSea" type="inconnu">
+      <cotoie id-p="CN"/>
+      <cotoie id-p="MAL"/>
+      <cotoie id-p="THA"/>
+      <cotoie id-p="K"/>
+      <cotoie id-p="VN"/>
+      <cotoie id-p="BRU"/>
+      <cotoie id-p="SGP"/>
+      <cotoie id-p="RI"/>
+      <cotoie id-p="RP"/>
+      <cotoie id-p="RC"/>
+      <cotoie id-p="HONX"/>
+      <cotoie id-p="MACX"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Indic" type="inconnu">
+      <cotoie id-p="IND"/>
+      <cotoie id-p="RI"/>
+      <cotoie id-p="CL"/>
+      <cotoie id-p="AUS"/>
+      <cotoie id-p="RSA"/>
+      <cotoie id-p="EAT"/>
+      <cotoie id-p="COM"/>
+      <cotoie id-p="YE"/>
+      <cotoie id-p="SP"/>
+      <cotoie id-p="EAK"/>
+      <cotoie id-p="RM"/>
+      <cotoie id-p="MOC"/>
+      <cotoie id-p="MS"/>
+      <cotoie id-p="SY"/>
+      <cotoie id-p="XMAS"/>
+      <cotoie id-p="COCO"/>
+      <cotoie id-p="MV"/>
+      <cotoie id-p="MAYO"/>
+      <cotoie id-p="REUN"/>
+      <cotoie id-p="TL"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-ArabianSea" type="inconnu">
+      <cotoie id-p="YE"/>
+      <cotoie id-p="OM"/>
+      <cotoie id-p="SP"/>
+      <cotoie id-p="PK"/>
+      <cotoie id-p="IND"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-GulfOman" type="inconnu">
+      <cotoie id-p="IR"/>
+      <cotoie id-p="PK"/>
+      <cotoie id-p="OM"/>
+      <cotoie id-p="UAE"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-PersianGulf" type="inconnu">
+      <cotoie id-p="IR"/>
+      <cotoie id-p="BRN"/>
+      <cotoie id-p="IRQ"/>
+      <cotoie id-p="KWT"/>
+      <cotoie id-p="SA"/>
+      <cotoie id-p="OM"/>
+      <cotoie id-p="UAE"/>
+      <cotoie id-p="Q"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Rotes_Meer" type="inconnu">
+      <cotoie id-p="IL"/>
+      <cotoie id-p="ET"/>
+      <cotoie id-p="JOR"/>
+      <cotoie id-p="SA"/>
+      <cotoie id-p="YE"/>
+      <cotoie id-p="SUD"/>
+      <cotoie id-p="DJI"/>
+      <cotoie id-p="ER"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-GulfAden" type="inconnu">
+      <cotoie id-p="DJI"/>
+      <cotoie id-p="SP"/>
+      <cotoie id-p="YE"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Bengal" type="inconnu">
+      <cotoie id-p="BD"/>
+      <cotoie id-p="MYA"/>
+      <cotoie id-p="IND"/>
+      <cotoie id-p="CL"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-AndamanSea" type="inconnu">
+      <cotoie id-p="MYA"/>
+      <cotoie id-p="IND"/>
+      <cotoie id-p="THA"/>
+      <cotoie id-p="RI"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-MalakkaStrait" type="inconnu">
+      <cotoie id-p="THA"/>
+      <cotoie id-p="RI"/>
+      <cotoie id-p="MAL"/>
+      <cotoie id-p="SGP"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Javasee" type="inconnu">
+      <cotoie id-p="RI"/>
+      <cotoie id-p="TL"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Bandasee" type="inconnu">
+      <cotoie id-p="RI"/>
+      <cotoie id-p="TL"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Celebessee" type="inconnu">
+      <cotoie id-p="RI"/>
+      <cotoie id-p="MAL"/>
+      <cotoie id-p="RP"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Sulusee" type="inconnu">
+      <cotoie id-p="MAL"/>
+      <cotoie id-p="RP"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Arafurasee" type="inconnu">
+      <cotoie id-p="RI"/>
+      <cotoie id-p="PNG"/>
+      <cotoie id-p="AUS"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Korallensee" type="inconnu">
+      <cotoie id-p="AUS"/>
+      <cotoie id-p="PNG"/>
+      <cotoie id-p="NCA"/>
+      <cotoie id-p="VU"/>
+      <cotoie id-p="SLB"/>
+    </espace-maritime>
+    <espace-maritime id-e="sea-Tasmansee" type="inconnu">
+      <cotoie id-p="AUS"/>
+      <cotoie id-p="NZ"/>
+      <cotoie id-p="NORF"/>
+      <cotoie id-p="NCA"/>
+    </espace-maritime>
+  </liste-espace-maritime>
+</em>
